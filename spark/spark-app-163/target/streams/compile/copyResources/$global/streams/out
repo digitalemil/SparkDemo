@@ -1,0 +1,3 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/emil/Dropbox/Mesosphere/hsbc/spark/spark-app-163/src/main/resources/core-site.xml,/Users/emil/Dropbox/Mesosphere/hsbc/spark/spark-app-163/target/scala-2.10/classes/core-site.xml)[0m
+[0m[[0mdebug[0m] [0m	(/Users/emil/Dropbox/Mesosphere/hsbc/spark/spark-app-163/src/main/resources/hdfs-site.xml,/Users/emil/Dropbox/Mesosphere/hsbc/spark/spark-app-163/target/scala-2.10/classes/hdfs-site.xml)[0m
